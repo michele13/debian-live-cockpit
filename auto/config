@@ -1,0 +1,6 @@
+#!/bin/bash
+lb config noauto --architecture amd64 --binary-image iso-hybrid \
+  --updates true --security true --uefi-secure-boot enable \
+  --apt-indices false --firmware-chroot true --backports true \
+  --archive-areas "main,contrib,non-free" \
+  "${@}"

@@ -1,0 +1,2 @@
+openssh-server openssh-client reprepro build-essentials git gawk texinfo live-build debootstrap gparted grub2 grub-efi
+qemu-system qemu-user-static bitfmt-support
