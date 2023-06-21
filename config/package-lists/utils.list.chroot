@@ -1,2 +1,2 @@
 openssh-server openssh-client reprepro build-essential git gawk texinfo live-build debootstrap gparted grub-pc-bin grub-efi-amd64-bin
-qemu-system qemu-user-static binfmt-support
+qemu-system qemu-user-static binfmt-support virt-manager tmux
